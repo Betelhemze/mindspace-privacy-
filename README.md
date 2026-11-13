@@ -87,9 +87,9 @@ Any significant changes will be reflected in the updated policy published at thi
 For questions, concerns, or privacy-related requests, contact:
 
 **Product:** Mindspace  
-**Developer/Publisher:** [Your name or organization]  
-**Email:** [Your support email address]  
-**Website:** [Your website, if available]
+**Developer/Publisher:** Betelhem Wondale  
+**Email:** betelhemwondale@gmail.com  
+
 
 ---
 
